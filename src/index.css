@@ -1,0 +1,43 @@
+body{
+  background-color: rgb(17, 0, 21);
+} 
+.calcule{
+
+  width: 250px;
+  height: 300px;
+  margin: 50px auto;
+
+}
+.ipt{
+  background-color: rgb(238, 193, 255);
+  border: 3px solid rgb(255, 255, 255);
+  border-radius: 22px;
+  transition: all 0.3s ease;
+}
+.ipt:hover{
+  border-color: rgb(75, 0, 75); 
+}
+.bttn{
+  background-color: rgb(247, 206, 255);
+  border: none;
+  border-radius: 8px;
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+.bttn:hover{
+  background-color: rgb(56, 1, 56);
+  color: white;
+}
+.C{
+  background-color: rgb(98, 3, 117);
+  border: none;
+  border-radius: 8px;
+  transition: all 0.3s ease;
+  cursor: pointer;
+  color: white;
+  font-size: 21px;
+}
+.C:hover{
+  background-color: rgb(247, 206, 255);
+  color: black;
+}
